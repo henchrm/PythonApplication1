@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vectors1", "PythonApplication1\Vectors1.pyproj", "{8115675A-1AFC-41EF-B331-3280707ED9BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Vectors2", "PythonApplication2\Vectors2.pyproj", "{8D0511F4-DA30-49FD-A74F-06A112694DE2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8115675A-1AFC-41EF-B331-3280707ED9BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8115675A-1AFC-41EF-B331-3280707ED9BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D0511F4-DA30-49FD-A74F-06A112694DE2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D0511F4-DA30-49FD-A74F-06A112694DE2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<ProfilingTarget xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectTarget>
+    <TargetProject>8d0511f4-da30-49fd-a74f-06a112694de2</TargetProject>
+    <FriendlyName>Vectors2</FriendlyName>
+  </ProjectTarget>
+  <Reports>
+    <Report>
+      <Filename>C:\Users\Russell\AppData\Local\Temp\Vectors2_20160302.vsp</Filename>
+    </Report>
+  </Reports>
+</ProfilingTarget>
